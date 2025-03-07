@@ -1,0 +1,6 @@
+.idea/
+venv/
+media/
+static/
+db.sqlite3
+images/

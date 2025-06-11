@@ -42,7 +42,27 @@ A **Django-based Airline Management System** that allows users to **register, se
 
 ## 🎨 User Interface Previews
 
- ![User interface1](https://github.com/user-attachments/assets/a8727c3f-768a-48c7-a24d-ae40fddeac85)
+![Image](https://github.com/user-attachments/assets/6b66da1e-efdc-4d4a-97f7-bd9a64b7b62e)
+
+---
+
+![Image](https://github.com/user-attachments/assets/b36c7ce3-61eb-495d-937e-c2882c5eb8d5)
+
+---
+
+![Image](https://github.com/user-attachments/assets/db9b44ef-7c36-428f-8028-008ebc0680e2)
+
+---
+
+![Image](https://github.com/user-attachments/assets/379c3faa-046d-46eb-a1f1-33310d54ca7d)
+
+---
+
+![Image](https://github.com/user-attachments/assets/1db9d852-6afe-4125-a054-916a64dd91a9)
+
+---
+
+![Image](https://github.com/user-attachments/assets/ac992a0e-34fb-492e-8b3a-27d52307c33b)
 
  ## 🏠 User Dashboard
 

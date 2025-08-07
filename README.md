@@ -66,47 +66,51 @@ A **Django-based Airline Management System** that allows users to **register, se
 
  ## 🏠 User Dashboard
 
-![User Dashboard](https://github.com/user-attachments/assets/0feb828e-9104-4c52-9f76-95750a71c3b4)
 
+<img width="1920" height="873" alt="Dashboard" src="https://github.com/user-attachments/assets/c8de6587-07aa-475a-84d3-86e6d36d7b96" />
 
 ## 👤 User Profile
  
-![user profile view](https://github.com/user-attachments/assets/02d16cb3-eace-44db-bd84-9c2ac68662f5)
 
 
 ## 🔍 Flight Search System
  
-![Search Fight](https://github.com/user-attachments/assets/e6d2fb6d-1992-4f60-a0f6-6799d1565eed)
 
-![search fight system](https://github.com/user-attachments/assets/fa70eddd-31e3-4b46-952d-84fdfbfb655c)
+<img width="1920" height="875" alt="Search flight" src="https://github.com/user-attachments/assets/67b35219-46ea-4e82-9bd7-fbd3111743f9" />
+
 
 
 ## ✈️ View Flight Details
 
-![view fight details](https://github.com/user-attachments/assets/7ebd49b7-49bb-4158-a3a0-6f4291c7bb99)
+
+
+<img width="1920" height="877" alt="view fight details" src="https://github.com/user-attachments/assets/4f09a99c-169a-4913-b346-33d4a829a950" />
 
 
 ## 📋 Flight Booking System
-![flight booking system](https://github.com/user-attachments/assets/d917ba13-b5df-4eb2-85d9-d0b99bd9a12d)
+
 
 
 ## 📖 My Booking
-![my booking](https://github.com/user-attachments/assets/174e694b-2a3d-4530-a57f-6934f32569e6)
 
+<img width="1920" height="871" alt="Enter Passanger Details" src="https://github.com/user-attachments/assets/ff852258-e09e-43e9-9c95-b9ba9e6b85fd" />
 
 ## 📜 Booking History & Details
 ![viw booking history](https://github.com/user-attachments/assets/cd235ccc-78f5-499d-8c7b-4df8ebd8512a)
 
 
-## 📄 View Booking Details
-![view booking details](https://github.com/user-attachments/assets/7196a271-56d7-4e59-b3b7-f9b2339c7a28)
 
-## 💳 Payment System
+## 📄 View Booking Details
+<img width="1920" height="873" alt="view booking history" src="https://github.com/user-attachments/assets/931a731d-3caa-4c37-8955-fc263ee5f2d7" />
+System
+
+## 💳 Payment 
 ![payment](https://github.com/user-attachments/assets/7ebb2cc4-7335-4e8a-880a-5d73bf686f8f)
 
 
 ## ⭐ Feedback Submission
-![Feedback](https://github.com/user-attachments/assets/c1bd0e80-6eb5-41e7-b8f3-d4d6ef3c3aeb)
+
+<img width="1920" height="868" alt="send feedback" src="https://github.com/user-attachments/assets/25cbb9d2-4735-49f6-a4c5-80ba461dfbb2" />
 
 
 ## 🔑 Change Password

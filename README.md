@@ -95,9 +95,6 @@ A **Django-based Airline Management System** that allows users to **register, se
 
 <img width="1920" height="871" alt="Enter Passanger Details" src="https://github.com/user-attachments/assets/ff852258-e09e-43e9-9c95-b9ba9e6b85fd" />
 
-## 📜 Booking History & Details
-![viw booking history](https://github.com/user-attachments/assets/cd235ccc-78f5-499d-8c7b-4df8ebd8512a)
-
 
 
 ## 📄 View Booking Details
@@ -105,7 +102,7 @@ A **Django-based Airline Management System** that allows users to **register, se
 System
 
 ## 💳 Payment 
-![payment](https://github.com/user-attachments/assets/7ebb2cc4-7335-4e8a-880a-5d73bf686f8f)
+
 
 
 ## ⭐ Feedback Submission

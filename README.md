@@ -71,6 +71,7 @@ A **Django-based Airline Management System** that allows users to **register, se
 
 ## 👤 User Profile
  
+<img width="1901" height="851" alt="view profile" src="https://github.com/user-attachments/assets/4c41be2c-f5dc-47b3-b80a-b08f3519a403" />
 
 
 ## 🔍 Flight Search System
@@ -90,6 +91,7 @@ A **Django-based Airline Management System** that allows users to **register, se
 ## 📋 Flight Booking System
 
 
+<img width="1920" height="873" alt="booking detail" src="https://github.com/user-attachments/assets/d5a906c3-fbca-4e5d-aed2-fda8b5a470dc" />
 
 ## 📖 My Booking
 
@@ -111,16 +113,14 @@ System
 
 
 ## 🔑 Change Password
-![change password](https://github.com/user-attachments/assets/3de0e8ee-bbd2-4dc8-bdbf-aa87119cd980)
 
+<img width="1920" height="848" alt="change password" src="https://github.com/user-attachments/assets/cc085523-0599-476c-98b6-e96135368e03" />
 
 ## 🎩 Admin Panel & Management
 ## 🏢 Admin Dashboard
-![admin panel](https://github.com/user-attachments/assets/75db6f7f-0a2b-419c-b376-0eb3b838085f)
 
-##  🛠️ Admin - View Flight Details
+<img width="1920" height="874" alt="admin dashboard" src="https://github.com/user-attachments/assets/7613ff05-ec79-4665-92a7-75101f6d918b" />
 
-![admin view filght details](https://github.com/user-attachments/assets/00d39592-7053-4ecb-a41f-21d028ab21a9)
 
 
 
